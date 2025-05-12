@@ -1,0 +1,30 @@
+.is-invalid {
+	border-color: red;
+}
+
+.error {
+	margin-top: 0.25rem;
+	max-width: 200px;
+	color: red;
+}
+
+.form-group {
+	margin-bottom: 1rem;
+	flex-direction: column;
+	display: flex;
+}
+
+.form-group label {
+	font-weight: bold;
+	margin-bottom: 0.5rem;
+}
+
+.form-group input {
+	max-width: 200px;
+}
+
+.form-control {
+	border: 1px solid gray;
+	border-radius: 0.25rem;
+	padding: 0.5rem;
+}
